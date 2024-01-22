@@ -1,0 +1,2 @@
+cannot add a another asset to the market maker because it would exceed maximum capacity
+cannot add a new market maker to the market because it would exceed maximum capacity

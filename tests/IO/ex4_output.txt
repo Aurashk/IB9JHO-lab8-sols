@@ -1,0 +1,16 @@
+===================== Traders =====================
+	Trader 0 contains:
+		Asset 0: FB
+		Asset 1: NVDA
+		Asset 2: BRK.B
+		Asset 3: JPM
+		Asset 4: JNJ
+===================== Market Makers ==========================
+	Market maker 0 contains:
+		Asset 0: AAPL
+		Asset 1: MSFT
+		Asset 2: AMZN
+	Market maker 1 contains:
+		Asset 0: TSLA
+		Asset 1: GOOGL
+

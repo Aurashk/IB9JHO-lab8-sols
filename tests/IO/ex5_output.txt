@@ -1,0 +1,9 @@
+===================== Traders =====================
+	Trader 0 contains:
+		Empty
+===================== Market Makers ==========================
+	Market maker 0 contains:
+		Empty
+	Market maker 1 contains:
+		Empty
+
